@@ -2,7 +2,7 @@ import React from "react";
 
 const page = () => {
   return (
-    <div className="px-52 py-10">
+    <div className="px-52 py-10 mt-14">
       <h2 className="  text-3xl font-bold text-gray-500">
         Social Security Laws in India
       </h2>

@@ -37,7 +37,7 @@ const page = () => {
   return (
     <>
       <Slider />
-      <div className="flex pt-16 px-12 gap-3">
+      <div className="flex pt-16 px-12 gap-3 mb-14">
         {/* Articles Cards */}
         <div className="ms-16">
           <h1 className="text-4xl font-bold mb-8">Top Stories</h1>
